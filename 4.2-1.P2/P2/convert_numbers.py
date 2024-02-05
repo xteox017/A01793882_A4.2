@@ -1,4 +1,5 @@
 """
+Por Mateo Cruz L
 Script - Conversión
 """
 import sys

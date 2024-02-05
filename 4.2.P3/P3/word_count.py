@@ -1,6 +1,6 @@
 """
 Conteo de Palabras
-por A01330566
+Por Mateo Cruz L
 
 Este programa identifica todas las palabras distintas y su frecuencia
 """
